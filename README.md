@@ -1,2 +1,2 @@
-# Project---1-Card-using-Javascript
-This is a basic project to implement learning of DOM of javascript
+#SERIES OF PROJECTS TO IMPLEMENT LEARNING OF DOM(document object model) in Javascript
+Projects to implement learning of DOM of javascript
